@@ -235,6 +235,10 @@
   align-items: center;
 }
 
+.speaker {
+  list-style: none;
+}
+
 #static {
   display: flex;
   flex-direction: column;
