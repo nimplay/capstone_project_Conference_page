@@ -5,12 +5,17 @@ Capstone Project Conference Page
   
 Live Demo
 ---------
-To run this project in your local environment, you can use this [link](https://nimplay.github.io/Microverse_Portfolio/)
+To run this project in your local environment, you can use this [link](https://nimplay.github.io/capstone_project_Conference_page/index.html)
   
 Built With
 ----------
  HTML 
  CSS  
+
+ Video
+ -----
+
+Video presentation of the characteristics of the project through [Loom](https://www.loom.com/share/2d165aa6566c42bebbd7d7678b4217a0)
 
 Getting Started
 ---------------
@@ -23,7 +28,7 @@ Prerequisites
 
 Install
 -------
- Clone the [repo](https://github.com/nimplay/Microverse_Portfolio.git)
+ Clone the [repo](https://github.com/nimplay/capstone_project_Conference_page)
 
 Usage
 -----
@@ -36,8 +41,10 @@ Author
  - Twitter: [@NimrodAcosta](https://twitter.com/NimrodAcosta)
  - LinkedIn: [Nimrod Acosta](https://www.linkedin.com/in/nimrod-acosta-734330169/)
 
-Contributers
-------------
+Original Idea
+-------------
+
+Original design idea by [Cindy Shin in Behance.](https://www.behance.net/adagio07)
 
 
 Contribution
