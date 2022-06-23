@@ -132,9 +132,8 @@
   font-family: 'Bebas Neue', cursive;
   background-image: url('./images/sB_Eaw.png');
   background-size: cover;
-  -webkit-background-clip: text;
-  background-clip: text;
   color: rgba(246, 66, 1, 0.6);
+  -webkit-background-clip: text;
 }
 
 .home-p-box {
