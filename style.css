@@ -235,6 +235,13 @@
   align-items: center;
 }
 
+#static {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
 .speaker {
   list-style: none;
 }
